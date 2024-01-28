@@ -1,0 +1,25 @@
+processor	: 0
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 asimddp sha512 asimdfhm dit uscat ilrcpc flagm ssbs sb paca pacg dcpodp flagm2 frint
+CPU implementer	: 0x61
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0x000
+CPU revision	: 0
+
+processor	: 1
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 asimddp sha512 asimdfhm dit uscat ilrcpc flagm ssbs sb paca pacg dcpodp flagm2 frint
+CPU implementer	: 0x61
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0x000
+CPU revision	: 0
+
+processor	: 2
+BogoMIPS	: 48.00
+               total        used        free      shared     buffers       cache   available
+Mem:            3928         575        2032           1          24        1295        3060
+Swap:           1023           0        1023
+Linux 28175125a241 6.5.11-linuxkit #1 SMP PREEMPT Wed Dec  6 17:08:31 UTC 2023 aarch64 aarch64 aarch64 GNU/Linux
+Perfgraph 1.0
