@@ -1,6 +1,6 @@
 # Threads count vs performance scaling results
 
-`SVG` graphs and `.csv` relesults for cpu performance scaling.
+`SVG` graphs and `.csv` results of cpu performance scaling.
 
 Trying:
 ```
