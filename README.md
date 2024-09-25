@@ -2,7 +2,7 @@
 
 `SVG` graphs and `.csv` results of cpu performance scaling.
 
-Trying:
+Usage:
 ```
 docker run --rm chgena/perfgraph
 ```
